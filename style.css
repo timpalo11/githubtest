@@ -1,0 +1,40 @@
+.header {
+  width: 1440px;
+  height: 85px;
+  display: flex;
+  margin: auto;
+  margin-left: 130x;
+}
+
+.header ul {
+  display: flex;
+  gap: 1255px;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.header li {
+  list-style-type: none;
+}
+
+.header img {
+  margin-right: 6px;
+}
+
+.header a {
+  text-decoration: none;
+  color: white;
+  width: 86px;
+  height: 25px;
+  font-style: italic;
+}
+
+body {
+  background-color: white;
+}
+
+.Intro {
+  width: 1440px;
+  height: 912px;
+  background-color: #212121;
+}
